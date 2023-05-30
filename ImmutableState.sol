@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-or-later
 pragma solidity =0.7.6;
 
-import 'https://github.com/N1KURA/Pan/blob/main/interfaces/IImmutableState.sol';
+import 'https://github.com/N1KURA/Pan/blob/main/IImmutableState.sol';
 
 /// @title Immutable state
 /// @notice Immutable state used by the swap router
