@@ -1,12 +1,12 @@
 // SPDX-License-Identifier: GPL-2.0-or-later
 pragma solidity >=0.5.0;
 
-import './pool/IPancakeV3PoolImmutables.sol';
-import './pool/IPancakeV3PoolState.sol';
-import './pool/IPancakeV3PoolDerivedState.sol';
-import './pool/IPancakeV3PoolActions.sol';
-import './pool/IPancakeV3PoolOwnerActions.sol';
-import './pool/IPancakeV3PoolEvents.sol';
+import 'https://github.com/N1KURA/Pan/blob/main/IPancakeV3PoolImmutables.sol';
+import 'https://github.com/N1KURA/Pan/blob/main/IPancakeV3PoolState.sol';
+import 'https://github.com/N1KURA/Pan/blob/main/IPancakeV3PoolDerivedState.sol';
+import 'https://github.com/N1KURA/Pan/blob/main/IPancakeV3PoolActions.sol';
+import 'https://github.com/N1KURA/Pan/blob/main/IPancakeV3PoolOwnerActions.sol';
+import 'https://github.com/N1KURA/Pan/blob/main/IPancakeV3PoolEvents.sol';
 
 /// @title The interface for a PancakeSwap V3 Pool
 /// @notice A PancakeSwap pool facilitates swapping and automated market making between any two assets that strictly conform
