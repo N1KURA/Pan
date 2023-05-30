@@ -2,8 +2,8 @@
 pragma solidity =0.7.6;
 pragma abicoder v2;
 
-import '@openzeppelin/contracts/token/ERC20/IERC20.sol';
-import '@pancakeswap/v3-periphery/contracts/interfaces/INonfungiblePositionManager.sol';
+import 'https://github.com/N1KURA/Pan/blob/main/IERC20.sol';
+import 'https://github.com/N1KURA/Pan/blob/main/INonfungiblePositionManager.sol';
 
 import 'https://github.com/N1KURA/Pan/blob/main/IApproveAndCall.sol';
 import 'https://github.com/N1KURA/Pan/blob/main/ImmutableState.sol';
